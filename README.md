@@ -1,4 +1,4 @@
-# operating-systems
+# operating-system
 4 Lab assignments for NYU CSCI-GA.2250 Operating System Fall 2023.
 
   - Lab01   Linker
