@@ -1,0 +1,9 @@
+Symbol Table
+
+Memory Map
+000: 1000 Error: External operand exceeds length of uselist; treated as relative=0
+001: 1000 Error: External operand exceeds length of uselist; treated as relative=0
+002: 1000 Error: External operand exceeds length of uselist; treated as relative=0
+Warning: Module 1: uselist[0]=X21 was not used
+
+

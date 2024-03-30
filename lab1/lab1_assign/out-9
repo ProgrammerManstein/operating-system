@@ -1,0 +1,12 @@
+Symbol Table
+X31=1
+
+Memory Map
+000: 2001
+Warning: Module 1: uselist[0]=X31 was not used
+001: 3001
+002: 4001
+Warning: Module 3: uselist[0]=X32 was not used
+Warning: Module 3: uselist[2]=X32 was not used
+
+

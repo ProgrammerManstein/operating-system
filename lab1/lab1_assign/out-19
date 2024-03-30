@@ -1,0 +1,14 @@
+Symbol Table
+
+Memory Map
+000: 9999 Error: Illegal opcode; treated as 9999
+001: 9999 Error: Illegal opcode; treated as 9999
+002: 9999 Error: Illegal opcode; treated as 9999
+003: 0000
+004: 3001
+005: 9999 Error: Illegal immediate operand; treated as 999
+006: 4000
+007: 4005
+008: 4000 Error: Illegal module operand ; treated as module=0
+
+
